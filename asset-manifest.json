@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/buki_test/static/css/main.0067d81d.chunk.css",
+    "main.js": "/buki_test/static/js/main.d05ce7b3.chunk.js",
+    "main.js.map": "/buki_test/static/js/main.d05ce7b3.chunk.js.map",
+    "runtime~main.js": "/buki_test/static/js/runtime~main.0a24696d.js",
+    "runtime~main.js.map": "/buki_test/static/js/runtime~main.0a24696d.js.map",
+    "static/js/2.8b2a4481.chunk.js": "/buki_test/static/js/2.8b2a4481.chunk.js",
+    "static/js/2.8b2a4481.chunk.js.map": "/buki_test/static/js/2.8b2a4481.chunk.js.map",
+    "index.html": "/buki_test/index.html",
+    "precache-manifest.17e8005d8a428b09d84d4acee05fbd79.js": "/buki_test/precache-manifest.17e8005d8a428b09d84d4acee05fbd79.js",
+    "service-worker.js": "/buki_test/service-worker.js",
+    "static/css/main.0067d81d.chunk.css.map": "/buki_test/static/css/main.0067d81d.chunk.css.map",
+    "static/media/App.css": "/buki_test/static/media/Arial.07d53b5b.ttf"
+  }
+}
